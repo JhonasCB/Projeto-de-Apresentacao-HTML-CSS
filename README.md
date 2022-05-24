@@ -1,2 +1,2 @@
-# Projeto-de-Apresentacao-HTML-CSS
+# HTML-CSS
 Projeto com HTML + estilização com CSS.
