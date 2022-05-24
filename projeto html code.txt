@@ -1,0 +1,60 @@
+Curso HTML 5
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+        <meta chorset="utf-8">
+        <title>Primeiro Projeto</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+    
+        <section>
+            <h1 id="title">João Henrique de Souza Mór<h1>
+           <img src="imagens/fotoperfil.JPG" alt="Foto de Perfil de João Henrique de Souza Mór" width="100px" height="100px" class="photo">
+            </section>
+
+        <header>
+
+            <h2 class="subtitle">Posts</h2>
+
+        </header>
+
+        <article class="back">
+            <header>
+                <h3 class="post_title">Post #1</h3>
+            <img src="imagens/program.jpg" alt="Artigo sobre a crescente área de Tecnologia no mundo" width="650px" height="650px" class="post_image">
+            </header>
+            
+            <p class="post_content">
+                Buscando <a href = "https://www.linkedin.com/in/jo%C3%A3o-henrique-m%C3%B3r-48a5b9203/" target="_blank"> experiência no mercado de trabalho como estagiário</a>, acredito que com minhas habilidades e competências consigo auxiliar no crescimento da empresa que eu me candidatar.
+            </p>
+
+        </article>
+
+    </section>
+
+    <footer>
+
+        <h3>Contato</h3>
+
+        <ul class="contacts_list">
+            <li>
+                <a href="mailto:joaohmor69@gmail.com">joaohmor69@gmail.com</a>
+                
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-m%C3%B3r-48a5b9203/"target="_blank">Meu LinkedIn</a>
+            </li>
+
+            <li>
+                <a href="https://github.com/JhonasCB" target="_blank">Meu Github</a>
+            </li>
+        </ul>
+    </footer>
+
+    </body>
+
+</html>

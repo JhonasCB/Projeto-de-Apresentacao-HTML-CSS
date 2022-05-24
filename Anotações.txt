@@ -1,0 +1,54 @@
+estrutura basica html 
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta> - como o navegador faz o incode dos caracteres
+	<title></title>
+
+</head>
+<body> - conteudo da pagina
+</body>
+</html>
+
+
+
+SEMANTICA
+
+<section> - Representa uma seção generica, como lista de artigos
+<header> - cabeçalho de uma pagina, ou de uma section
+<article> - representa um conteudo relevante como um post
+<aside> - representa um conteudo relacionado normalmente visto como barra lateral
+<footer> - rodape uma pagina, ou de uma section
+<h1>-<h6> - importancia de um titulo, tamanhos diferentes, só pode haver um h1 por pagina
+
+
+TAG PARA TEXTO
+
+<h1> Titulo da pagina
+
+<h2> Titulo de seção
+
+<h3> Titulo de artigo
+
+<p> Conteudo do artigo
+
+
+
+TAG PARA LINK
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-m%C3%B3r-48a5b9203/">Linkedin<a/> - Email = mailto: e Tel: tel
+direcionamento para onde seu link vai
+
+
+<a target="_blank">Link</a> - 
+Abrir o link em uma nova aba
+
+
+
+IMAGENS
+
+<img src="img/avatar.png"> - obrigatorio, é o caminho da imagem
+
+<img alt="Foto de Lucas Vilaboim"> - é altamente recomendado, mostra a descrição da foto qnd n carregada
+
